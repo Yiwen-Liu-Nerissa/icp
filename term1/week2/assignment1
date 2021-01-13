@@ -1,11 +1,11 @@
 class Main {
   public static void main(String[] args) {
     
-    int birthYear = 
-    int currentYear = 
+    int birthYear = 2001
+    int currentYear = 2021
     int legalDrivingAge = 18;
-    int age = 
-    int yearsToGo =
+    int age = 19
+    int yearsToGo =20
 
     /* check here if the user is old enough to drive */ 
   }
