@@ -1,8 +1,12 @@
+import java.util.Scanner;
+
 class Main {
  public static void main(String[] args) {
-  int i = 0;
- 
-  while (i < 10){
+  Scanner input = new Scanner(System.in);
+  String word = input.nextline();
+  
+ for (int letters = 0; letters < word.length(); ++letters){
+  char letterInWord = word.charAt(letters);
    System.out.println(i);
   }
 
